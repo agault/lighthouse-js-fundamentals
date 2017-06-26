@@ -1,0 +1,7 @@
+
+
+function ageCalculator(age) {
+  var currentYear = 2017
+  var yearOfBirth
+}
+ console.log("currentYear" - "yearOfBirth");
